@@ -2,7 +2,7 @@
 https://fashion-store-mighty-coders.herokuapp.com/
 
 ## Backeend Rest Api
-https://github.com/rashmikagamage/fashion-store-backend
+https://github.com/lochanar99/OnlineFashionStore-BackEnd
 
 # React Bootstrap with Material Design
 MDBootstrap for React
